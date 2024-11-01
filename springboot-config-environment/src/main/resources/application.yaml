@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: springboot-config-environment
+  profiles:
+    active: dev
+server:
+  port: 8001

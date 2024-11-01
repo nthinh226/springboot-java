@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: springboot-config-environment
+server:
+  port: 8002
